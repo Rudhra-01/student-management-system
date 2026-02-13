@@ -1,2 +1,2 @@
 # student-management-system
-Python OOP project with data structures
+Python OOPS project with data structures 
